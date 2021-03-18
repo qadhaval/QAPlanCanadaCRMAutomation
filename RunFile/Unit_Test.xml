@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Unit Test">
+
+	<!-- <listeners> <listener class-name = "org.SalesForceTestAutomation.utilities.jiraListener"/> 
+		</listeners> -->
+
+		<test name="Unit Test">
+			<parameter name="browser" value="Chrome" />
+			<classes>
+			
+          <class name="org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM" />
+   
+			</classes>
+		</test>
+</suite>
+
+
+<!--    <class name="org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1110_ASL_onePaidOnTwoPayments" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1111_ASL_twoPaymentsBothPaid" />
+        
+        <class name="org.SalesForceTestAutomation.tests.CP_1115_ASL_createJournalEntriesOnDemand" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM" />
+        
+        <class name="org.SalesForceTestAutomation.tests.CP_1112_ASL_refundWithNegativeAmount" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1113_ASL_refundWithPositiveAmount" />
+        
+        <class name="org.SalesForceTestAutomation.tests.CP_1146_AC_checkRevenueCategoryofDepartmentandProduct" />
+        
+        <class name="org.SalesForceTestAutomation.tests.CP_1147_ASL_editAccountingPeriodsWithAdmin" /> -->

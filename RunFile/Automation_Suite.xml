@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+	<!-- <listeners> <listener class-name = "org.SalesForceTestAutomation.utilities.jiraListener"/> 
+		</listeners> -->
+
+<suite name="CP-421:Close Opportunity when all Payments Paid"
+	parallel="false">
+	
+	<test name="CP-421:Close Opportunity when all Payments Paid">
+		<parameter name="browser" value="chrome" />
+		<classes>
+
+        <class name="org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1110_ASL_onePaidOnTwoPayments" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1111_ASL_twoPaymentsBothPaid" />
+        
+		</classes>
+	</test>
+</suite>
+
+<suite name="CP-422:Journal Entry Creation Batch Job"
+	parallel="false">
+
+	<test name="CP-422:Journal Entry Creation Batch Job">
+		<parameter name="browser" value="chrome" />
+		<classes>
+
+        <class name="org.SalesForceTestAutomation.tests.CP_1115_ASL_createJournalEntriesOnDemand" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM" />
+        
+		</classes>
+	</test>
+</suite>
+
+<suite name="CP-431:Link Refund to Original Payment"
+	parallel="false">
+
+	<test name="CP-431:Link Refund to Original Payment">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+        <class name="org.SalesForceTestAutomation.tests.CP_1112_ASL_refundWithNegativeAmount" />
+        <class name="org.SalesForceTestAutomation.tests.CP_1113_ASL_refundWithPositiveAmount" />
+        
+		</classes>
+	</test>
+</suite>
+
+<suite name="CP-534:Capture Appeal Code Segments on a Payment"
+	parallel="false">
+
+	<test name="CP-534:Capture Appeal Code Segments on a Payment">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+	    <class name="org.SalesForceTestAutomation.tests.CP_1146_AC_checkRevenueCategoryofDepartmentandProduct" />	
+   
+		</classes>
+	</test>
+</suite>
+
+<suite name="CP-562:Configure Accounting Periods Values"
+	parallel="false">
+
+	<test name="CP-562:Configure Accounting Periods Values">
+		<parameter name="browser" value="chrome" />
+		<classes>
+		
+	    <class name="org.SalesForceTestAutomation.tests.CP_1147_ASL_editAccountingPeriodsWithAdmin" />	
+   
+		</classes>
+	</test>
+</suite>
+
+

@@ -1,0 +1,6 @@
+2021/02/09-16:59:42.633 2dec Reusing MANIFEST C:\Users\dsathavara\SalesForce CRM\org.SalesForceTestAutomation\chromeProfilePath\Default\IndexedDB\https_plan9.lightning.force.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/02/09-16:59:42.637 2dec Recovering log #22
+2021/02/09-16:59:42.665 2dec Reusing old log C:\Users\dsathavara\SalesForce CRM\org.SalesForceTestAutomation\chromeProfilePath\Default\IndexedDB\https_plan9.lightning.force.com_0.indexeddb.leveldb/000022.log 
+2021/02/09-16:59:46.824 3d90 Level-0 table #27: started
+2021/02/09-16:59:46.857 3d90 Level-0 table #27: 2428113 bytes OK
+2021/02/09-16:59:46.859 3d90 Delete type=0 #22
