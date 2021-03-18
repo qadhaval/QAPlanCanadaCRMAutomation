@@ -1,0 +1,267 @@
+INFO  - 2021-02-15 15:32:14.348; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-02-15 15:32:14.376; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-02-15 15:32:32.897; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-02-15 15:32:32.922; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-02-15 15:32:36.892; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-15 15:32:43.890; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-02-15 15:32:43.891; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-02-15 15:33:03.731; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-27 12:50:17.009; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-02-27 12:50:17.042; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-02-27 12:50:22.236; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-27 12:50:29.783; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-02-27 12:50:29.784; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-02-27 12:51:26.979; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-27 21:28:55.098; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-02-27 21:28:55.140; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-02-27 21:29:01.075; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-27 21:29:09.009; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-02-27 21:29:09.009; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-02-27 21:29:09.011; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-27 21:29:09.015; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-02-27 21:29:11.914; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 4:Create new opportunity
+INFO  - 2021-02-27 21:29:21.896; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-01 12:43:37.739; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-01 12:43:37.794; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-04 13:03:47.022; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-04 13:03:47.077; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:30:04.209; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:30:04.254; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:30:09.368; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:30:13.596; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-03-10 12:30:13.596; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-03-10 12:30:13.598; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:30:13.600; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:30:36.854; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 4:Create new opportunity
+INFO  - 2021-03-10 12:30:57.175; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 5:Set the payment as paid
+INFO  - 2021-03-10 12:30:57.176; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:44:00.504; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:44:00.535; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:44:18.203; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:44:18.231; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:44:22.106; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:44:27.637; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-03-10 12:44:27.637; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-03-10 12:44:27.638; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 4:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:44:27.640; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:44:47.150; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Create new opportunity
+INFO  - 2021-03-10 12:45:07.834; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Set the payment as paid
+INFO  - 2021-03-10 12:45:07.837; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 4:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-10 12:51:26.537; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:51:26.564; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:51:39.186; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:51:39.213; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:51:43.093; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 1:Start Test:CP_475_onePaidOnTwoPayments
+INFO  - 2021-03-10 12:51:47.608; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 2:Enter Username
+INFO  - 2021-03-10 12:51:47.610; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 3:Enter Password
+INFO  - 2021-03-10 12:51:47.611; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 4:End Test: CP_475_onePaidOnTwoPayments
+INFO  - 2021-03-10 12:51:47.614; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 1:Start Test:CP_475_onePaidOnTwoPayments
+INFO  - 2021-03-10 12:52:08.792; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 2:Create new opportunity
+INFO  - 2021-03-10 12:52:36.111; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 3:Set the payment as paid
+INFO  - 2021-03-10 12:52:36.113; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 4:End Test: CP_475_onePaidOnTwoPayments
+INFO  - 2021-03-10 12:57:43.959; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:57:43.984; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:57:47.954; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:57:53.203; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 2:Enter Username
+INFO  - 2021-03-10 12:57:53.204; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 3:Enter Password
+INFO  - 2021-03-10 12:57:53.206; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:57:53.208; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:58:46.260; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:58:58.422; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 12:58:58.451; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 12:59:02.511; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:59:07.135; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 2:Enter Username
+INFO  - 2021-03-10 12:59:07.135; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 3:Enter Password
+INFO  - 2021-03-10 12:59:07.137; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:59:07.139; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 12:59:26.294; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 2:Create new opportunity
+INFO  - 2021-03-10 13:00:02.013; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 3:Set the payment as paid
+INFO  - 2021-03-10 13:00:02.014; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-10 13:26:16.065; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:26:16.090; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:26:20.138; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 1:Start Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:26:42.714; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 7:End Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:26:42.715; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 1:Start Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:27:16.679; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 7:End Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:27:23.944; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:27:23.969; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:29:28.376; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:29:28.402; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:29:32.405; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 1:Start Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:29:35.220; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 2:Enter Username
+INFO  - 2021-03-10 13:29:35.221; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 3:Enter Password
+INFO  - 2021-03-10 13:29:35.223; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 7:End Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:29:35.225; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 1:Start Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:29:55.979; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 4:Create new opportunity
+INFO  - 2021-03-10 13:30:27.357; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 5:Set the payment as paid and try to refunt it using negative value.
+INFO  - 2021-03-10 13:30:27.359; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 6:Refund has been succesfully done
+INFO  - 2021-03-10 13:30:27.360; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 7:End Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-10 13:34:39.738; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:34:39.764; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:34:43.900; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 1:Start Test: CP_796_AbilitytoRelateOriginalPaymentwithaPositiveAmount
+INFO  - 2021-03-10 13:34:49.004; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 2:Enter Username
+INFO  - 2021-03-10 13:34:49.004; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 3:Enter Password
+INFO  - 2021-03-10 13:34:49.006; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 7:End Test: CP_796_AbilitytoRelateOriginalPaymentwithaPositiveAmount
+INFO  - 2021-03-10 13:34:49.009; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 1:Start Test: CP_796_AbilitytoRelateOriginalPaymentwithaPositiveAmount
+INFO  - 2021-03-10 13:35:08.194; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 4:Create new opportunity
+INFO  - 2021-03-10 13:35:35.136; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 5:Set the payment as paid and try to refunt it using positive value.
+INFO  - 2021-03-10 13:35:35.137; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 6:Validate the validation message isAn Original Payment is required for to a refund payments. Otherwise leave blank.
+INFO  - 2021-03-10 13:35:35.141; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 7:End Test: CP_796_AbilitytoRelateOriginalPaymentwithaPositiveAmount
+INFO  - 2021-03-10 13:38:59.346; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:38:59.376; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:39:03.380; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:39:05.729; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 2:Enter Username
+INFO  - 2021-03-10 13:39:05.730; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 3:Enter Password
+INFO  - 2021-03-10 13:39:10.735; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:39:10.737; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:39:23.625; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:39:39.708; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:39:39.735; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:39:43.514; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:39:46.288; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 2:Enter Username
+INFO  - 2021-03-10 13:39:46.288; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 3:Enter Password
+INFO  - 2021-03-10 13:39:51.299; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:39:51.301; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:40:10.402; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:46:17.062; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:46:17.094; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:46:21.343; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:46:24.903; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 2:Enter Username
+INFO  - 2021-03-10 13:46:24.903; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 3:Enter Password
+INFO  - 2021-03-10 13:46:29.914; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:46:29.918; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:46:39.168; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:47:12.238; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:47:12.264; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:47:15.999; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:47:18.514; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 2:Enter Username
+INFO  - 2021-03-10 13:47:18.514; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 3:Enter Password
+INFO  - 2021-03-10 13:47:23.522; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:47:23.524; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:47:31.189; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:47:53.615; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 88.0.4324.96 (resolved driver for Chrome 88)
+INFO  - 2021-03-10 13:47:53.641; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\88.0.4324.96\chromedriver.exe
+INFO  - 2021-03-10 13:47:57.468; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:48:00.157; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 2:Enter Username
+INFO  - 2021-03-10 13:48:00.157; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 3:Enter Password
+INFO  - 2021-03-10 13:48:05.168; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:48:05.171; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-10 13:48:16.549; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 4: navigate to accounting settings menu.
+INFO  - 2021-03-10 13:49:56.758; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-17 09:23:00.604; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:23:00.689; io.github.bonigarcia.wdm.WebDriverManager; Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+INFO  - 2021-03-17 09:23:01.010; io.github.bonigarcia.wdm.online.Downloader; Downloading https://chromedriver.storage.googleapis.com/89.0.4389.23/chromedriver_win32.zip
+INFO  - 2021-03-17 09:23:01.669; io.github.bonigarcia.wdm.online.Downloader; Extracting driver from compressed file chromedriver_win32.zip
+INFO  - 2021-03-17 09:23:01.933; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:23:08.482; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-17 09:23:13.877; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-03-17 09:23:13.878; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-03-17 09:23:44.099; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 4:Create new opportunity
+INFO  - 2021-03-17 09:31:37.603; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:31:37.638; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:31:42.874; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 1:Start Test:CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-17 09:31:48.852; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-03-17 09:31:48.852; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-03-17 09:32:15.561; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 4:Create new opportunity
+INFO  - 2021-03-17 09:32:37.168; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 5:Set the payment as paid
+INFO  - 2021-03-17 09:32:37.169; org.SalesForceTestAutomation.tests.CP_474_onePaymentOnNewOpportunity; Step 6:End Test: CP_474_onePaymentOnNewOpportunity
+INFO  - 2021-03-17 09:36:14.610; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:36:14.638; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:36:19.840; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Start Test:CP_475_onePaidOnTwoPayments
+INFO  - 2021-03-17 09:36:23.023; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 2:Enter Username
+INFO  - 2021-03-17 09:36:23.024; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 3:Enter Password
+INFO  - 2021-03-17 09:36:52.177; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 4:Create new opportunity
+INFO  - 2021-03-17 09:37:20.828; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 5:Set the payment as paid
+INFO  - 2021-03-17 09:37:20.829; org.SalesForceTestAutomation.tests.CP_475_onePaidOnTwoPayments; Step 6:End Test: CP_475_onePaidOnTwoPayments
+INFO  - 2021-03-17 09:43:27.639; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:43:27.669; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:43:32.988; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-17 09:43:39.146; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 2:Enter Username
+INFO  - 2021-03-17 09:43:39.147; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 3:Enter Password
+INFO  - 2021-03-17 09:44:05.904; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:Create new opportunity
+INFO  - 2021-03-17 09:44:44.175; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 5:Set the payment as paid
+INFO  - 2021-03-17 09:44:44.177; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 6:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-17 09:49:08.207; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:49:08.233; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:49:13.262; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-17 09:49:18.243; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 2:Enter Username
+INFO  - 2021-03-17 09:49:18.244; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 3:Enter Password
+INFO  - 2021-03-17 09:49:47.680; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:Create new opportunity
+INFO  - 2021-03-17 09:50:25.020; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 5:Set the payment as paid
+INFO  - 2021-03-17 09:50:25.021; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 6:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-17 09:52:37.982; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:52:38.012; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:52:43.144; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 1:Start Test:CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-17 09:52:49.085; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 2:Enter Username
+INFO  - 2021-03-17 09:52:49.086; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 3:Enter Password
+INFO  - 2021-03-17 09:53:15.996; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 4:Create new opportunity
+INFO  - 2021-03-17 09:53:52.489; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 5:Set the payment as paid
+INFO  - 2021-03-17 09:53:52.491; org.SalesForceTestAutomation.tests.CP_476_twoPaymentsBothPaid; Step 6:End Test: CP_476_twoPaymentsBothPaid
+INFO  - 2021-03-17 09:58:45.229; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 09:58:45.264; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 09:58:51.990; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 1:Start Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-17 09:58:58.956; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 2:Enter Username
+INFO  - 2021-03-17 09:58:58.958; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 3:Enter Password
+INFO  - 2021-03-17 09:59:16.281; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 4: navigate to accounting settings menu.
+INFO  - 2021-03-17 09:59:36.816; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 5: Verify the schedule job to on demand.
+INFO  - 2021-03-17 09:59:36.816; org.SalesForceTestAutomation.tests.CP_732_createJournalEntriesbyScheduledJobtoOnDemand; Step 6:End Test: CP_732_createJournalEntriesbyScheduledJobtoOnDemand
+INFO  - 2021-03-17 10:03:33.611; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 10:03:33.639; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 10:03:38.030; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 1:Start Test: CP_735_createJournalEntriesbyScheduledJobat2AM
+INFO  - 2021-03-17 10:03:43.248; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 2:Enter Username
+INFO  - 2021-03-17 10:03:43.249; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 3:Enter Password
+INFO  - 2021-03-17 10:03:54.087; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 4: Open Setup page
+INFO  - 2021-03-17 10:04:02.248; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 5: Open Apex job page
+INFO  - 2021-03-17 10:04:05.956; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 6: Get all data of schedule record.
+INFO  - 2021-03-17 10:04:05.956; org.SalesForceTestAutomation.tests.CP_735_createJournalEntriesbyScheduledJobat2AM; Step 7:Start Test: CP_735_createJournalEntriesbyScheduledJobat2AM
+INFO  - 2021-03-17 10:10:00.088; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 10:10:00.143; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 10:10:05.801; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 1:Start Test: CP_647_AbilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-17 10:10:09.867; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 2:Enter Username
+INFO  - 2021-03-17 10:10:09.868; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 3:Enter Password
+INFO  - 2021-03-17 10:10:39.196; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 4:Create new opportunity
+INFO  - 2021-03-17 10:11:12.591; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 5:Set the payment as paid and try to refunt it using negative value.
+INFO  - 2021-03-17 10:11:12.598; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 6:Refund has been succesfully done
+INFO  - 2021-03-17 10:11:12.599; org.SalesForceTestAutomation.tests.CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount; Step 7:End Test: CP_647_abilitytoRelateOriginalPaymentwithaNegativeAmount
+INFO  - 2021-03-17 10:15:36.543; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 10:15:36.587; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 10:15:42.717; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 1:Start Test: CP_796_AbilitytoRelateOriginalPaymentwithaPositiveAmount
+INFO  - 2021-03-17 10:15:49.050; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 2:Enter Username
+INFO  - 2021-03-17 10:15:49.050; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 3:Enter Password
+INFO  - 2021-03-17 10:16:15.217; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 4:Create new opportunity
+INFO  - 2021-03-17 10:16:41.555; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 5:Set the payment as paid and try to refunt it using positive value.
+INFO  - 2021-03-17 10:16:41.561; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 6:Validate the validation message isAn Original Payment is required for to a refund payments. Otherwise leave blank.
+INFO  - 2021-03-17 10:16:41.562; org.SalesForceTestAutomation.tests.CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount; Step 7:End Test: CP_796_abilitytoRelateOriginalPaymentwithaPositiveAmount
+INFO  - 2021-03-17 12:58:43.321; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 12:58:43.363; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 12:58:49.807; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 1:Start Test:CP_1046_ASL_onePaymentOnNewOpportunity
+INFO  - 2021-03-17 12:58:58.092; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-03-17 12:58:58.093; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-03-17 13:02:14.751; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 13:02:14.775; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 13:02:21.340; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 1:Start Test:CP_1046_ASL_onePaymentOnNewOpportunity
+INFO  - 2021-03-17 13:02:24.471; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 2:Enter Username
+INFO  - 2021-03-17 13:02:24.472; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 3:Enter Password
+INFO  - 2021-03-17 13:02:53.666; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 4:Create new opportunity
+INFO  - 2021-03-17 13:03:15.563; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 5:Set the payment as paid
+INFO  - 2021-03-17 13:03:15.565; org.SalesForceTestAutomation.tests.CP_1046_ASL_onePaymentOnNewOpportunity; Step 6:End Test: CP_1046_ASL_onePaymentOnNewOpportunity
+INFO  - 2021-03-17 13:35:03.744; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-17 13:35:03.770; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-17 13:35:09.217; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 1:Start Test: CP_1114_ASL_createJournalEntriesat2AM
+INFO  - 2021-03-17 13:35:18.160; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 2:Enter Username
+INFO  - 2021-03-17 13:35:18.162; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 3:Enter Password
+INFO  - 2021-03-17 13:35:29.257; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 4: Open Setup page
+INFO  - 2021-03-17 13:35:37.467; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 5: Open Apex job page
+INFO  - 2021-03-17 13:35:42.580; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 6: Get all data of schedule record.
+INFO  - 2021-03-17 13:35:42.581; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 7:Start Test: CP_1114_ASL_createJournalEntriesat2AM
+INFO  - 2021-03-18 09:27:56.790; io.github.bonigarcia.wdm.WebDriverManager; Using chromedriver 89.0.4389.23 (resolved driver for Chrome 89)
+INFO  - 2021-03-18 09:27:56.829; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.chrome.driver as C:\Users\dsathavara\.cache\selenium\chromedriver\win32\89.0.4389.23\chromedriver.exe
+INFO  - 2021-03-18 09:28:01.410; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 1:Start Test: CP_1114_ASL_createJournalEntriesat2AM
+INFO  - 2021-03-18 09:28:08.218; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 2:Enter Username
+INFO  - 2021-03-18 09:28:08.219; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 3:Enter Password
+INFO  - 2021-03-18 09:28:18.936; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 4: Open Setup page
+INFO  - 2021-03-18 09:28:26.804; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 5: Open Apex job page
+INFO  - 2021-03-18 09:28:30.649; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 6: Get all data of schedule record.
+INFO  - 2021-03-18 09:28:30.649; org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM; Step 7:Start Test: CP_1114_ASL_createJournalEntriesat2AM
+INFO  - 2021-03-18 12:13:53.410; io.github.bonigarcia.wdm.WebDriverManager; Reading https://selenium-release.storage.googleapis.com/ to seek IEDriverServer
+INFO  - 2021-03-18 12:13:54.287; io.github.bonigarcia.wdm.WebDriverManager; Exporting webdriver.ie.driver as C:\Users\dsathavara\.cache\selenium\IEDriverServer\win64\3.150\IEDriverServer.exe

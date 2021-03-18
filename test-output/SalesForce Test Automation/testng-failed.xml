@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SalesForce Test Automation]">
+  <parameter name="browser" value="chrome"/>
+  <test name="SalesForce Test(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="org.SalesForceTestAutomation.tests.CP_01_createNewContact">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="sF_createNewContact"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- org.SalesForceTestAutomation.tests.CP_01_createNewContact -->
+      <class name="org.SalesForceTestAutomation.tests.CP_03_navigateToSettings">
+        <methods>
+          <include name="setUp"/>
+          <include name="SF_navigateToSettings"/>
+          <include name="afterMethod"/>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- org.SalesForceTestAutomation.tests.CP_03_navigateToSettings -->
+      <class name="org.SalesForceTestAutomation.tests.CP_04_sqlConnection">
+        <methods>
+          <include name="beforeMethod"/>
+        </methods>
+      </class> <!-- org.SalesForceTestAutomation.tests.CP_04_sqlConnection -->
+    </classes>
+  </test> <!-- SalesForce Test(failed) -->
+</suite> <!-- Failed suite [SalesForce Test Automation] -->

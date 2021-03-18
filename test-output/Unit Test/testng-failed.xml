@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Unit Test]">
+  <parameter name="browser" value="IE"/>
+  <test name="Unit Test(failed)">
+    <parameter name="browser" value="IE"/>
+    <classes>
+      <class name="org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM">
+        <methods>
+          <include name="setUp"/>
+          <include name="SF_Admin_Login"/>
+          <include name="beforeSuite"/>
+        </methods>
+      </class> <!-- org.SalesForceTestAutomation.tests.CP_1114_ASL_createJournalEntriesat2AM -->
+    </classes>
+  </test> <!-- Unit Test(failed) -->
+</suite> <!-- Failed suite [Unit Test] -->
